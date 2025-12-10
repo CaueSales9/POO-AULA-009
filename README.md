@@ -1,5 +1,4 @@
-Sistema de Carros (POO)
-Projeto pratico de POO em Python, demonstrando herança e polimorfismo.
+Sistema de Carros (POO). Projeto pratico de POO em Python, demonstrando herança e polimorfismo.
 Arquivos do Projeto:
 Classes
 
